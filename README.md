@@ -1,5 +1,7 @@
 # Deploy Kubernetes Cluster on Azure VMs using Kubeadm, CNI, Containerd
 
+![k8skadm2](https://user-images.githubusercontent.com/4071025/184167988-fbb0ed05-35c1-4a93-8c8e-e5e8e5bee401.png)
+
 ## Topology and components:
 - 1 VNET, 1 Subnet, 1 Security Group
 - 2 VMs: a control plane node and a worker node.
